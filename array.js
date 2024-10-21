@@ -1,0 +1,13 @@
+var myname = "zainab Abbas";
+var myage = 18;
+var isMarried = false;
+console.log(myname, myage, isMarried);
+var cart = ["apple", "orange", "banana"];
+console.log(cart);
+var mycontancts = ["zainab", "ahad", "hadi"];
+console.log(mycontancts);
+var mycart = ["rice", "wheat", "oil"];
+console.log("Here is my cart third Element", mycart[2]);
+console.log("before changing", mycart);
+mycart[3] = "suger";
+console.log("after changing", mycart);
